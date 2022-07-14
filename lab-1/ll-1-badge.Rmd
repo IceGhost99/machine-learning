@@ -25,25 +25,25 @@ Part A:
 
 1.  How good was the machine learning model we developed in the guiding practice? Would you be comfortable using it to code more conversations? What if you read about someone using such a model as a reviewer of research? Please add your thoughts and reflections following the bullet point below.
 
--   
+-   I believe 80% or above is quite good! THus, I don't have any reason to reject the paper becuase of that.
 
 2.  How might the model be improved? Share any ideas you have at this time below:
 
--   
+-   Maybe I can adjust the value of the prop or increase the amout of sample/coding.
 
 Part B: Use the institutional library (e.g. [NCSU Library](https://www.lib.ncsu.edu/#articles)), [Google Scholar](https://scholar.google.com/) or search engine to locate a research article, presentation, or resource that applies machine learning to an educational context aligned with your research interests. More specifically, **locate a machine learning study that involve making predictions**.
 
 1.  Provide an APA citation for your selected study.
 
-    -   
+    -   Ninaus, M., Greipl, S., Kiili, K., Lindstedt, A., Huber, S., Klein, E., ... & Moeller, K. (2019). Increased emotional engagement in game-based learning–A machine learning approach on facial emotion detection data. Computers & Education, 142, 103641.
 
 2.  What research questions were the authors of this study trying to address and why did they consider these questions important?
 
-    -   
+    -   Game-based version of number line estimation task increases emotional engagment would be better than non-game-based equvalent.
 
 3.  What were the results of these analyses?
 
-    -   
+    -   Using ML on facial emotion detection data, authors were able to detect participants' engagment data. 
 
 ### Part II: Data Product
 
