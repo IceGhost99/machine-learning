@@ -133,7 +133,7 @@ function - `initial_split()`.
 
 It is common when beginning a modeling project to [separate the data
 set](https://bookdown.org/max/FES/data-splitting.html) into two
-partitions. Why do we choose an 80% split (see `prop = .80` below)
+part\`itions. Why do we choose an 80% split (see `prop = .80` below)
 
 This is to reserve a sufficient number of cases for testing our fitted
 model later. You can change this number if you wish.
